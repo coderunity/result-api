@@ -4,7 +4,7 @@
   "description": "result api",
   "main": "index.js",
   "scripts": {
-    "result" : "json-server --watch result.json --port 5252"
+    "result" : "json-server --watch db.json --port 5252"
   },
   "author": "raihan",
   "license": "ISC",
