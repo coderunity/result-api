@@ -1,0 +1,52 @@
+{
+    "studentResult"        : [
+        {
+            "id"        : 1,
+            "name"      : "Md Abu Raihan",
+            "roll"      : "01",
+            "class"     : "11",
+            "age"       : "22",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/s526x395/267996127_952176215680997_3766712250695824366_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEfA52CVBYXj4fcej9pjUkJ8LVLxxaF4GHwtUvHFoXgYd-98xL-5xmPbq537AIJ4ITUS8oii3HyqHO2JhhRkLhU&_nc_ohc=HffneJc0RkgAX-cs7_W&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_Q6mgNe2GtZn_qSJaPuu3oxL2yQBRrbipFQNi80m6LQw&oe=620E998F",
+            "bangla"    : "80",
+            "english"   : "82",
+            "math"      : "76",
+            "science"   : "87",
+            "sscience"  : "70",
+            "religion"  : "83",
+            "cgpa"    : "4.67",
+            "result"    : "A"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Md Achem",
+            "roll"      : "02",
+            "class"     : "10",
+            "age"       : "25",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/268964923_626587678582252_3746122992792772158_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGnSgipkTO_v-m9-bsn9LwzHdqZF5vb1RAd2pkXm9vVEL5b-3HW_7bVdNUkPJ0aGaPV0sYLTyKIJiH8cS3l6FFn&_nc_ohc=mS_3glaLf2kAX-Cr8kj&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT-F2FC-abMjTztsya_wz-dOYktjPK4alk4pX2DYIjgDmg&oe=620F0930",
+            "bangla"    : "82",
+            "english"   : "87",
+            "math"      : "79",
+            "science"   : "60",
+            "sscience"  : "50",
+            "religion"  : "81",
+            "cgpa"    : "4.47",
+            "result"    : "A"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Md Abu Sayeed",
+            "roll"      : "03",
+            "class"     : "11",
+            "age"       : "24",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/164960720_940315936506852_4173724294257936417_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFI4KcPDBGwj9l6a84-Nm5szV43rHee5KfNXjesd57kp8IYieS0_-0WcB9LyOo_wX2-b7TIQ8Q0kMw_aR9mRReq&_nc_ohc=Ksk1u7pntPwAX9HGeUP&tn=drGWuIx59W6GLTP6&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_TY0CkCZieWukNGKErUZfwm0JZvj6zZUirT33jw_-83A&oe=622EEDDE",
+            "bangla"    : "70",
+            "english"   : "80",
+            "math"      : "70",
+            "science"   : "65",
+            "sscience"  : "68",
+            "religion"  : "84",
+            "cgpa"    : "3.99",
+            "result"    : "-A"
+        }
+    ]
+}

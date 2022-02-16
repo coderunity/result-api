@@ -1,0 +1,14 @@
+{
+  "name": "result",
+  "version": "1.0.0",
+  "description": "result api",
+  "main": "index.js",
+  "scripts": {
+    "result" : "json-server --watch result.json --port 5252"
+  },
+  "author": "raihan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
